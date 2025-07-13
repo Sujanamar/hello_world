@@ -1,0 +1,14 @@
+<html>
+<head>
+   <title> simple html page</title>
+</head>
+  <body>
+   <h1>hello,world</h1>
+
+   <p>this is a simple html page.</p>
+
+   <button onclick="alert('you clicked the button!')">click me</button>
+
+  </body>
+
+</html>
